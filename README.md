@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aacheruku"><img src="https://img.shields.io/badge/LinkedIn-aacheruku-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aacheruku@gmail.com"><img src="https://img.shields.io/badge/Email-aacheruku%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-San%20Diego%2C%20CA-2E8B57?style=flat" alt="San Diego, CA">
+  <a href="https://www.linkedin.com/in/aacheruku">LinkedIn</a> · <a href="mailto:aacheruku@gmail.com">Email</a>
 </p>
 
 ---
@@ -18,14 +16,14 @@ I graduated from UC Santa Barbara with a B.S. in Applied Mathematics, and I love
 
 ## Experience
 
-| Role | Company | What I Did |
+| role | company | what i did |
 |---|---|---|
 | AI Technical Research Associate | Keywords Studios (Amazon AGI contract) | I wrote Python and SQL checks that stopped bad data from reaching the database and flagged model errors across OpenAI, Anthropic and Amazon for engineers to fix. I also helped build tools used by 350+ team members that boosted data collection efficiency by 60%. |
 | Freelance Data Analyst | VAS Engineering | I built a Python and SQL pipeline that cleaned 39,000+ production records and cut manual reporting time by 40%. I also traced an apparent slowdown across three assembly lines to a scanning error rather than a real drop. |
 
 ## Featured Projects
 
-| Project | Tools | What It Shows |
+| project | tools | what it shows |
 |---|---|---|
 | [Financial Anomaly Detection](https://github.com/aakankshacheruku/Financial-Anomaly-Detection) | Python, pandas | I flagged 264 of 12,000 transactions with two statistical methods and prioritized the 152 that both methods agreed on. |
 | [Air Quality Time-Series Pipeline](https://github.com/aakankshacheruku/Indian-Air-Quality-EDA-Pipeline) | Python, scikit-learn, Plotly | I forecasted PM2.5 spikes from 31,000+ hourly readings with an R² of 0.97 and explained the rush-hour and seasonal drivers. |
@@ -33,12 +31,12 @@ I graduated from UC Santa Barbara with a B.S. in Applied Mathematics, and I love
 
 ## Tools
 
-| Category | Tools |
+| category | tools |
 |---|---|
-| Programming | Python (pandas, scikit-learn) and SQL (PostgreSQL, DuckDB). |
-| Data and Reporting | Excel (pivot tables, XLOOKUP, data validation), Power BI and Tableau. |
-| AI | Microsoft Copilot and Claude. |
-| Project Tracking | Jira and Confluence. |
+| Programming | Python (pandas, scikit-learn) and SQL (PostgreSQL, DuckDB) |
+| Data and Reporting | Excel (pivot tables, XLOOKUP, data validation), Power BI and Tableau |
+| AI | Microsoft Copilot and Claude |
+| Project Tracking | Jira and Confluence |
 
 ## Currently Learning
 
