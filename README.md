@@ -1,27 +1,54 @@
-# Hi, I'm Aakanksha
+<h1 align="center">Hi, I'm Aakanksha!</h1>
 
-Operations and AI analyst in San Diego. I turn messy operational data into decisions people can act on; whether that's production records from an assembly line, AI model outputs, or transaction data. Applied Math grad (UC Santa Barbara), now focused on operations, program and product roles in hardware and manufacturing.
+<p align="center">
+  I'm an operations and AI analyst in San Diego who turns messy operational data into decisions people can act on.
+</p>
 
-### What I've done
-- **AI Technical Research Associate (Keywords Studios, Amazon AGI contract):** wrote Python and SQL checks that stopped bad data from reaching the database and flagged model errors across OpenAI, Anthropic and Amazon for engineers to fix; helped build tools used by 350+ team members that boosted data collection efficiency by 60%.
-- **Volunteer Data Analyst (VAS Engineering):** built a Python and SQL pipeline that cleaned 39,000+ production records and cut manual reporting time by 40%, and traced an apparent slowdown across three assembly lines to a scanning error rather than a real drop.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aacheruku"><img src="https://img.shields.io/badge/LinkedIn-aacheruku-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aacheruku@gmail.com"><img src="https://img.shields.io/badge/Email-aacheruku%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-San%20Diego%2C%20CA-2E8B57?style=flat" alt="San Diego, CA">
+</p>
 
-### Featured projects
-| Project | What it shows |
+---
+
+## About Me
+
+I graduated from UC Santa Barbara with a B.S. in Applied Mathematics, and I love seeing how math and data solve real-world problems. My work so far has ranged from production records on an assembly line to AI model outputs to transaction data. I'm now focused on operations, program and product roles in hardware and manufacturing!
+
+## Experience
+
+| Role | Company | What I Did |
+|---|---|---|
+| AI Technical Research Associate | Keywords Studios (Amazon AGI contract) | I wrote Python and SQL checks that stopped bad data from reaching the database and flagged model errors across OpenAI, Anthropic and Amazon for engineers to fix. I also helped build tools used by 350+ team members that boosted data collection efficiency by 60%. |
+| Freelance Data Analyst | VAS Engineering | I built a Python and SQL pipeline that cleaned 39,000+ production records and cut manual reporting time by 40%. I also traced an apparent slowdown across three assembly lines to a scanning error rather than a real drop. |
+
+## Featured Projects
+
+| Project | Tools | What It Shows |
+|---|---|---|
+| [Financial Anomaly Detection](https://github.com/aakankshacheruku/Financial-Anomaly-Detection) | Python, pandas | I flagged 264 of 12,000 transactions with two statistical methods and prioritized the 152 that both methods agreed on. |
+| [Air Quality Time-Series Pipeline](https://github.com/aakankshacheruku/Indian-Air-Quality-EDA-Pipeline) | Python, scikit-learn, Plotly | I forecasted PM2.5 spikes from 31,000+ hourly readings with an R² of 0.97 and explained the rush-hour and seasonal drivers. |
+| [Synthetic EHR Cost Dashboard](https://github.com/aakankshacheruku/synthetic-ehr-dashboard) | PostgreSQL, Tableau | I showed that one patient cohort cost 1.9x the general population, driven by procedures rather than medication. |
+
+## Tools
+
+| Category | Tools |
 |---|---|
-| [Financial Anomaly Detection](https://github.com/aakankshacheruku/Financial-Anomaly-Detection) | Flagged 264 of 12,000 transactions with two statistical methods and prioritized the 152 both methods agreed on |
-| [Air Quality Time-Series Pipeline](https://github.com/aakankshacheruku/Indian-Air-Quality-EDA-Pipeline) | Forecasted PM2.5 spikes from 31,000+ hourly readings (R² 0.97) and explained the rush-hour and seasonal drivers |
-| [Synthetic EHR Cost Dashboard](https://github.com/aakankshacheruku/synthetic-ehr-dashboard) | PostgreSQL and Tableau dashboard showing one patient cohort cost 1.9x the general population, driven by procedures rather than drugs |
+| Programming | Python (pandas, scikit-learn) and SQL (PostgreSQL, DuckDB). |
+| Data and Reporting | Excel (pivot tables, XLOOKUP, data validation), Power BI and Tableau. |
+| AI | Microsoft Copilot and Claude. |
+| Project Tracking | Jira and Confluence. |
 
-### Tools
-Python (pandas, scikit-learn) · SQL (PostgreSQL, DuckDB) · Excel (pivot tables, XLOOKUP, data validation) · Power BI · Tableau · Microsoft Copilot · Claude (Claude Code)· Jira
+## Currently Learning
 
-### Currently learning
-- Gesture synths, where hand signs play piano keys
-- How AI is being used in neurotechnology
+- I'm experimenting with gesture synths, where hand signs play piano keys!
+- I'm learning how AI is being used in neurotechnology.
 
-### Outside of work
-You'll usually find me journaling, hunting down new food and matcha spots, finding new music, or going on random adventures around San Diego.
+## Outside of Work
 
-### Get in touch
-[LinkedIn](https://www.linkedin.com/in/aacheruku) ·
+You'll usually find me journaling, hunting down new food and matcha spots, finding new music, or going on random adventures around San Diego!
+
+## Get in Touch
+
+I'm always happy to chat about operations, AI or a great matcha spot. Reach out on [LinkedIn](https://www.linkedin.com/in/aacheruku) or at aacheruku@gmail.com!
