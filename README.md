@@ -40,7 +40,7 @@ I graduated from UC Santa Barbara with a B.S. in Applied Mathematics, and I love
 
 ## Currently Learning
 
-- I'm experimenting with gesture synths (gesturesynth.com), where hand signs play piano keys!
+- I'm experimenting with [gesture synth](https://www.gesturesynth.com), where hand signs play piano keys!
 - I'm learning how AI is being used in neurotechnology.
 
 ## Outside of Work
